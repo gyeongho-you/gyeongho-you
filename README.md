@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=44D7BE&height=300&section=header&text=WelCome%20render&fontSize=90" />
-
-
-# ygh0905
+<img src="https://capsule-render.vercel.app/api?type=waving&color=44D7BE&height=300&section=header&text=WelCome&fontSize=90" />
 
 
 
