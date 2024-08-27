@@ -1,8 +1,9 @@
 <div align="Center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=250&section=header&text=WelCome&fontColor=FFFFFF&fontSize=70" />
+</div>
 
 
-
+<div align="Center">
   <head> SKILL </head>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
