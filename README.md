@@ -7,7 +7,7 @@
   <head> SKILL </head>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
-  <img src="https://imgwwww.shields.io/badge/C-007396?style=flat&logo=c&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C-007396?style=flat&logo=c&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-007396?style=flat&logo=cplusplus&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/></a>
 
