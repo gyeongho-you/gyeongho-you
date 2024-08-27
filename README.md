@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=250&section=header&text=WelCome&fontSize=90&-nl-Gyeongho's%20Page&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=250&section=header&text=WelCome&fontColor=FFFFFF&fontSize=70" />
 
 
 
